@@ -2,9 +2,9 @@
   <img src="profile.jpg" width="150" height="150" style="border-radius: 50%" alt="Profile picture" />
 </p>
 
-<h1 align="center">Hi, I'm Sreedev Rajendran 👋</h1>
+<h1 align="center">Heyy there, im Sreedev Rajendran 👋</h1>
 <p align="center">
-  🎓 BTech CSE Student • 💻 Python Developer • 🤖 ML Enthusiast • 📸 Visual Creator<br>
+  🎓 BTech CSE Student • 💻 Python Learner • 🤖 ML Enthusiast • 📸 Content Creator<br>
   <b>Blending code, creativity, and camera into real-world impact.</b>
 </p>
 
@@ -12,11 +12,9 @@
 
 ## 🚀 About Me
 
-- 👨‍🎓 BTech CSE student from India  
-- 👨‍💻 Building ML apps using Python (Colab, scikit-learn, NLP)  
+- 👨‍🎓 BTech CSE student from Kerala  
 - 🌐 Exploring frontend web design with HTML, CSS  
-- 📷 Founder of **TopViewFrames** – photography & poster design  
-- 🛠️ Learning: Streamlit • GitHub Actions • APIs
+- 📷 Founder of **topviewframes** – photography company
 
 ---
 
