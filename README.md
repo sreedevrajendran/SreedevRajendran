@@ -1,7 +1,6 @@
 <!-- Profile README for sreedevrajendran -->
 
 <p align="center">
-  <!-- Replace with your actual profile picture if you add profile.jpg to the repo -->
   <img src="profile.jpg" width="120" height="120" style="border-radius:50%" alt="Profile Photo" />
 </p>
 
@@ -14,10 +13,6 @@
 <div align="center">
 
 # <span style="font-weight:900; font-size:2em;">Hi, I'm Sreedev Rajendran 👋</span>
-
-</div>
-
-<div align="center">
 
 **<span style="font-size:1.15em; font-weight:bold; color:#222;">I'm a B.Tech Trainee @ Providence College Of Engineering. While I may not claim top skills yet, I'm passionate about learning and experimenting with:</span>**
 
@@ -36,9 +31,9 @@
 ## 🏅 Achievements & Upcoming Goals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Pro-Not%20Yet-inactive.svg?style=for-the-badge" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-No%20Badge-inactive.svg?style=for-the-badge" alt="Arctic Code Vault" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-Join%20in%20October-orange?style=for-the-badge" alt="Hacktoberfest" />
+  <img src="https://img.shields.io/badge/GitHub%20Pro-Goal-blue?style=for-the-badge" alt="GitHub Pro" />
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Goal-blue?style=for-the-badge" alt="Arctic Code Vault" />
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025%20Goal-orange?style=for-the-badge" alt="Hacktoberfest" />
   <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Goal-blue?style=for-the-badge" alt="Open Source Contributor" />
 </p>
 > **Earn real badges by contributing to open source, joining GitHub events, and leveling up your profile!**
@@ -63,7 +58,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1BAWWQskDa/" target="_blank">
@@ -71,7 +66,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="X/Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" style="color:#1da1f2;" alt="Twitter" />
   </a>
 </p>
 
