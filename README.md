@@ -60,28 +60,10 @@ Offground, I like to play Football.**
 
 ## 📬 Get in Touch
 
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 16px; justify-content: center;">
-  <a href="https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; border-radius: 12px; border: 2px solid #e1306c; padding: 12px 24px; margin: 8px; background: #fff;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Instagram" />
-      <span style="font-weight: 600; color: #e1306c; font-size: 1.1em;">Instagram</span>
-    </div>
-  </a>
-  <a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; border-radius: 12px; border: 2px solid #0077b5; padding: 12px 24px; margin: 8px; background: #fff;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="28" style="vertical-align: middle; margin-right: 8px;" alt="LinkedIn" />
-      <span style="font-weight: 600; color: #0077b5; font-size: 1.1em;">LinkedIn</span>
-    </div>
-  </a>
-  <a href="https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08" target="_blank" style="text-decoration: none;">
-    <div style="display: inline-block; border-radius: 12px; border: 2px solid #1da1f2; padding: 12px 24px; margin: 8px; background: #fff;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="28" style="vertical-align: middle; margin-right: 8px;" alt="Twitter" />
-      <span style="font-weight: 600; color: #1da1f2; font-size: 1.1em;">Twitter</span>
-    </div>
-  </a>
-</div>
-
----
+ 
+ [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+ [![instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3)
+  [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sreedevrajendran&style=flat-square" alt="Profile Views"/>
