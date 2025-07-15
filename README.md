@@ -18,7 +18,7 @@
 
 ---
 
-## 👤 About Me
+##  About Me
 
 **Hi I'm Sreedev Rajendran, a 2nd year B.Tech student from India.  
 Tech enthusiast with a keen interest in developing new stuffs integrating AI.  
@@ -27,7 +27,7 @@ Offground, I like to play Football.**
 
 ---
 
-## 🛠️ Most Used Languages
+## 🛠 Most Used Languages
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css" alt="Most Used Languages" />
@@ -35,7 +35,7 @@ Offground, I like to play Football.**
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sreedevrajendran&show_icons=true&theme=radical" alt="GitHub Stats" height="180"/>
@@ -45,7 +45,7 @@ Offground, I like to play Football.**
 
 ---
 
-## 🚀 Recent Projects
+##  Recent Projects
 
 - [**SimpleLogin-JAVA**](https://github.com/sreedevrajendran/SimpleLogin-JAVA):  
   A simple Java-based login system demonstrating user authentication concepts.
@@ -58,7 +58,7 @@ Offground, I like to play Football.**
 
 ---
 
-## 📬 Get in Touch
+##  Get in Touch
 
  
  [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
