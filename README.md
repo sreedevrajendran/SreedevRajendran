@@ -52,33 +52,36 @@ Offground, I like to play Football.**
 
 ## 🌐 Connect with Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.facebook.com/share/1BAWWQskDa/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
-  </a>
-</p>
+<div align="center">
 
----
+<a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="48" alt="Instagram" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:sreedevrajendran@gmail.com" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="48" alt="Gmail" />
+</a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/share/1BAWWQskDa/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="48" alt="Facebook" />
+</a>
+&nbsp;&nbsp;
+<a href="https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="48" alt="Twitter" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sreedevrajendran" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" alt="GitHub" />
+</a>
+
+</div>
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" alt="Gmail" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
+  <b>Let's connect! Feel free to reach out for collaboration, discussion, or just a friendly chat.</b>
 </p>
 
 ---
