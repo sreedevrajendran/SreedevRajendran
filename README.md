@@ -1,7 +1,7 @@
 <!-- Profile README for sreedevrajendran -->
 
 <p align="center">
-  <img src="profile.jpg" width="120" height="120" style="border-radius:50%" alt="Profile Photo" />
+  <img src="profile.jpg" width="120" height="120" style="border-radius:50%;" alt="Profile Photo" />
 </p>
 
 <p align="center">
@@ -14,9 +14,18 @@
 
 # <span style="font-weight:900; font-size:2em;">Hi, I'm Sreedev Rajendran 👋</span>
 
-**<span style="font-size:1.15em; font-weight:bold; color:#222;">I'm a B.Tech Trainee @ Providence College Of Engineering. While I may not claim top skills yet, I'm passionate about learning and experimenting with:</span>**
-
 </div>
+
+---
+
+## 👤 About Me
+
+**Hi I'm Sreedev Rajendran, a 2nd year B.Tech student from India.  
+Tech enthusiast with a keen interest in developing new stuffs integrating AI.  
+I love working on projects in Python, Java, and also enjoy frontend development.  
+Offground, I like to play Football.**
+
+---
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -28,25 +37,16 @@
 
 ---
 
-## 🏅 Achievements & Upcoming Goals
+## 🚀 Recent Projects
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Pro-Goal-blue?style=for-the-badge" alt="GitHub Pro" />
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-Goal-blue?style=for-the-badge" alt="Arctic Code Vault" />
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025%20Goal-orange?style=for-the-badge" alt="Hacktoberfest" />
-  <img src="https://img.shields.io/badge/Open%20Source%20Contributor-Goal-blue?style=for-the-badge" alt="Open Source Contributor" />
-</p>
-> **Earn real badges by contributing to open source, joining GitHub events, and leveling up your profile!**
+- [**SimpleLogin-JAVA**](https://github.com/sreedevrajendran/SimpleLogin-JAVA):  
+  A simple Java-based login system demonstrating user authentication concepts.
 
----
+- [**SentimentAnalysis**](https://github.com/sreedevrajendran/SentimentAnalysis):  
+  A project for analyzing sentiment from text data using Python and machine learning techniques.
 
-## 🚀 Highlighted Projects
-
-<p align="center">
-  <a href="https://github.com/sreedevrajendran?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-Click%20Here-green?logo=github" alt="View All Repos"/>
-  </a>
-</p>
+- [**login_page**](https://github.com/sreedevrajendran/login_page):  
+  A basic frontend login page built with HTML, CSS, and JavaScript.
 
 ---
 
@@ -58,7 +58,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/sreedev.me?igsh=Yno5NGk4aTFncDN3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.facebook.com/share/1BAWWQskDa/" target="_blank">
@@ -66,8 +66,19 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://x.com/HeyItsSreedev?t=2w5-nMS8gX4CCms-AouJAg&s=08" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" style="color:#1da1f2;" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" alt="Gmail" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="Twitter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" alt="Instagram" />
 </p>
 
 ---
