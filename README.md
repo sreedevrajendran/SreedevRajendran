@@ -45,9 +45,6 @@ Beyond code, you'll probably find me playing **football** or exploring the lates
 
 ---
 
-
----
-
 ## 📬 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreedev-rajendran-3296b5321?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
