@@ -45,19 +45,6 @@ Beyond code, you'll probably find me playing **football** or exploring the lates
 
 ---
 
-## 🚀 Recent Projects
-
-- [**SimpleLogin-JAVA**](https://github.com/sreedevrajendran/SimpleLogin-JAVA)  
-  A simple Java-based login system demonstrating basic user authentication with OOP principles.
-
-- [**SentimentAnalysis**](https://github.com/sreedevrajendran/SentimentAnalysis)  
-  Analyze sentiment from text using Python and machine learning techniques.
-
-- [**login_page**](https://github.com/sreedevrajendran/login_page)  
-  A basic frontend login form designed using HTML, CSS, and JavaScript.
-
-- [**SimpleBankingSystem-JAVA**](https://github.com/sreedevrajendran/SimpleBankingSystem-JAVA)  
-  A console-based Java banking system featuring user authentication, balance management, and transaction history.
 
 ---
 
