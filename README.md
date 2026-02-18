@@ -1,39 +1,24 @@
-# ⚡ <samp>Sreedev Rajendran</samp>
-### <samp>AI Explorer | Founder @ Topview Designs | B.Tech CSE</samp>
+# Hi there, I'm Sreedev! 👋
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Artificial_Intelligence-blue?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Building-Topview_Designs-orange?style=for-the-badge" />
-</p>
+### Developer | Entrepreneur
 
----
-
-## 🔍 The Brief
-I’m a 2nd-year B.Tech student bridging the gap between **Complex Logic** and **Creative Design**. Whether I'm optimizing a Python script or framing a shot through a lens, I'm driven by "Meaningful Innovation."
-
-- 🔭 **Currently working on:** `WeatherNativeProject` (React Native/TypeScript)
-- 🌱 **Learning:** Advanced Neural Networks & Flutter Architecture
-- ⚽ **Life outside code:** Football pitch enthusiast & Tech trend hunter
+- 🎓 **Study:** Currently a CS & AI Student at **Providence College of Engineering**
+- 🌍 **Portfolio:** [sreedevrajendran.netlify.app](https://sreedevrajendran.netlify.app/)
 
 ---
 
-## 🛠️ Tech Stack & Creative Suite
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,html,css,ts,react,github,figma,ps,pr" />
-</p>
+### **Languages & Tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
 ---
 
-## 📊 Performance Metrics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SreedevRajendran&show_icons=true&theme=transparent" alt="Sreedev's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SreedevRajendran&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
+### **Let's Connect**
 
----
-
-## 🌐 Connect & Collaborate
-<p align="left">
-<a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://www.instagram.com/zrr.dev" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
