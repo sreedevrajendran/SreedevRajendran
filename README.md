@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Developer;Photographer+📸" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Developer;Photographer" alt="Typing Animation" /></p>
 
 ###                                               Trainee Engineer | Developer | Photographer 
 
@@ -6,20 +6,26 @@ I am a Trainee Engineer at **Providence College of Engineering**, dedicated to s
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ The Grid: Tech Stack & Tools
 
-**Languages & Frontend**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-**Other Interests & Tools**
-* **Antigravity:** Exploring the limits of what's possible.
-* **Photography:** Capturing moments that tell a story.
+| | | | |
+|:-:|:-:|:-:|:-:|
+| ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) | ![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=for-the-badge&logo=jupyter&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white) |
+
+</div>
+
+---
+
+### 🎯 Project Spotlight
+
+| # | Project | Description |
+|---|---------|-------------|
+| 1️⃣ | **[Floww - AI Expense Tracker](https://github.com/sreedevrajendran/AI_EXPENSE_TRACKER)** | An AI-powered expense tracker designed to simplify financial management through smart automation. Built with TypeScript, featuring intelligent categorization and insightful analytics. **[→ Live Demo](https://ai-expense-tracker-8qgr.vercel.app)** |
+| 2️⃣ | **[MyPortfolio](https://github.com/sreedevrajendran/MyPortfolio)** | A modern, responsive portfolio website built with TypeScript and cutting-edge web technologies. Showcasing projects, skills, and creative work with elegant design and smooth interactions. |
 
 ---
 
@@ -28,10 +34,21 @@ I am a Trainee Engineer at **Providence College of Engineering**, dedicated to s
 
 ---
 
+### 🎮 Snake Game
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sreedevrajendran/SreedevRajendran/main/snake.gif" alt="Snake Game" width="400" />
+</p>
+
+---
+
 ### 📊 GitHub Insights
 <p align="left">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=sreedevrajendran&show_icons=true&theme=radical&hide_border=true" alt="Sreedev's Stats" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreedevrajendran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sreedevrajendran&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
