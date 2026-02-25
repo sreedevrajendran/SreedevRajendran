@@ -30,8 +30,8 @@ I am a Trainee Engineer at **Providence College of Engineering**, dedicated to s
 
 ### 📊 GitHub Insights
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sreedevrajendran&show_icons=true&theme=radical&hide_border=true" alt="Sreedev's Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreedevrajendran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats-fast.vercel.app/api?username=sreedevrajendran&show_icons=true&theme=radical&hide_border=true" alt="Sreedev's Stats" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreedevrajendran&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
