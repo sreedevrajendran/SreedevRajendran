@@ -1,4 +1,4 @@
-# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Full-Stack+Developer;Capturing+Moments+📸" alt="Typing SVG" /></p>
+# <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Trainee+Engineer;Photographer+📸" alt="Typing SVG" /></p>
 
 ### 🚀 Trainee Engineer | Developer | Photographer 
 
