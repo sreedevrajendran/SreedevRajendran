@@ -1,6 +1,6 @@
 # <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3670A0&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Developer;Photographer+📸" alt="Typing SVG" /></p>
 
-### Trainee Engineer | Developer | Photographer 
+###                                               Trainee Engineer | Developer | Photographer 
 
 I am a Trainee Engineer at **Providence College of Engineering**, dedicated to solving real-world problems through code and capturing the world through my lens. I thrive at the intersection of logic and creativity.
 
