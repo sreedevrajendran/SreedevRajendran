@@ -1,26 +1,53 @@
-# Welcome to My Project
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=3670A0&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sreedev+Rajendran;Trainee+Engineer;Full-Stack+Developer;Capturing+Moments+📸" alt="Typing SVG" />
+</p>
 
-## Typing Animation
+### ⚡ About Me
+- 🎓 **Trainee Engineer** at Providence College of Engineering, building for the real world.
+- 🛠️ **Full-Stack Enthusiast** specialized in Python and React/Next.js ecosystems.
+- 🎞️ **Visual Storyteller** who believes every line of code and every photo tells a story.
 
-```javascript
-const typingAnimation = (text, outputElement) => {
-    let index = 0;
-    const interval = setInterval(() => {
-        if (index < text.length) {
-            outputElement.innerHTML += text.charAt(index);
-            index++;
-        } else {
-            clearInterval(interval);
-        }
-    }, 100);
-};
+---
 
-const output = document.getElementById('typing');
-typingAnimation('Hello World!', output);
-```
+### 💻 The Tech Stack
+| Category | Tools & Languages |
+| :--- | :--- |
+| **Languages** | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![JS](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) |
+| **Other** | `Antigravity` `Photography` `Problem Solving` |
 
-## The Grid Tech Stack
+---
 
+### 🚀 Project Spotlight
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Floww](https://github.com/sreedevrajendran/floww)** | AI-powered expense tracker for smart financial management. | Next.js, AI, Tailwind |
+| **[Portfolio](https://sreedevrajendran.netlify.app/)** | My personal digital space showcasing my work and vision. | React, Vercel |
+
+---
+
+### 🐍 Activity & Contribution
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sreedevrajendran/sreedevrajendran/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=sreedevrajendran&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=sreedevrajendran&layout=compact&theme=radical&hide_border=true" width="45%" />
+</p>
+
+---
+
+### 🌐 Connect & Stats
+<p align="center">
+<a href="https://sreedevrajendran.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/zrr.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <img src="https://api.visitorbadge.io/api/visitors?path=sreedevrajendran&labelColor=%233670A0&countColor=%23263238&style=flat" alt="Visitors" />
+</p>
 | Technology      | Description               |
 |----------------|---------------------------|
 | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | Frontend Framework       |
