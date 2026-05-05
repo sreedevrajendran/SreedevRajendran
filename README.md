@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://sreedevrajendran.netlify.app/"><b>Portfolio</b></a> •
+  <a href="https://sreedevrajendran.in/"><b>Portfolio</b></a> •
   <a href="https://www.linkedin.com/in/sreedev-rajendran-3296b5321/"><b>LinkedIn</b></a> •
   <a href="https://www.instagram.com/zrr.dev/"><b>Instagram</b></a>
 </p>
