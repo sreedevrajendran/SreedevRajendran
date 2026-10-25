@@ -33,7 +33,7 @@
 >
 > An intelligent, open-source personal finance copilot designed to automate and streamline expense management:
 > - 📄 **Bulk PDF Bank Statement Parsing:** Ingest and parse 700+ transactions accurately from bank statements in seconds.
-> - 🧾 **Instant Receipt & Bill OCR:** Smart camera scanning and digital uploads with item breakdown and automated date normalization.
+> - 🧾 **Instant Receipt & Bill OCR:** Smart camera scanning and digital uploads with item breakdown and automatic date normalization.
 > - 🤖 **Agent Floww:** Conversational AI financial assistant that creates transactions via natural prompts (*"add ₹100 on groceries"*).
 > - 📱 **Cross-Platform:** Available as a fast PWA / web application and a native Android APK.
 >
